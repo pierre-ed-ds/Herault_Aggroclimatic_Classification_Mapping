@@ -48,12 +48,6 @@ Une **carte interactive leaflet** permettant d’explorer :
 
 ---
 
-## Utilisation
-1. Cloner le dépôt  
-   ```bash
-   git clone https://github.com/ton-profil/units-agroclimatiques-herault.git
-   cd units-agroclimatiques-herault
-   ```
 ## Aperçu
 
-![Carte interactive des unités agroclimatiques](images/carte.png)
+![Carte interactive des unités agroclimatiques](carte.png)
