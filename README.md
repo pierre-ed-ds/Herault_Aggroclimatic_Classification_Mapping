@@ -44,7 +44,7 @@ Une **carte interactive leaflet** permettant d’explorer :
 
 ---
 
-## Technologies
+## Code
 - **Langage** : R  
 - **Packages principaux** :  
   - `leaflet` (cartographie interactive)  
