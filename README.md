@@ -5,6 +5,10 @@ L’objectif est de représenter la variabilité agroclimatique locale en tenant
 
 **Les parties statistiques et validations de modèles sont plus approfondies dans le mémoire disponible**
 
+## Aperçu
+
+![Carte interactive des unités agroclimatiques](carte.png)
+
 ---
 
 ## Données utilisées
@@ -50,6 +54,4 @@ Une **carte interactive leaflet** permettant d’explorer :
 
 ---
 
-## Aperçu
 
-![Carte interactive des unités agroclimatiques](carte.png)
