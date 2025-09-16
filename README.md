@@ -3,7 +3,7 @@
 Ce projet propose une visualisation interactive des unités agroclimatiques du département de l’Hérault, réalisée avec **R** et le package **leaflet**.  
 L’objectif est de représenter la variabilité agroclimatique locale en tenant compte des données météorologiques et des caractéristiques géomorphologiques du territoire.
 
-**Les parties statistiques et validations de modèles sont plus approfondies dans le mémoire disponible**
+**Les parties statistiques et validations de modèles sont plus approfondies dans le mémoire disponible** (Rapport_alternance_M2_SSD_Dias_Pierre.pdf)
 
 ## Aperçu
 
